@@ -23,3 +23,5 @@ impl<T, U> Point<T, U> {
         &self.c
     }
 }
+
+// traits:
